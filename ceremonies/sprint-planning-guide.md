@@ -21,7 +21,7 @@ Sprint Planning should answer three core questions:
 ---
 
 ## 📊 Start by Reviewing Key Agile Metrics  
-Your article emphasizes that reviewing metrics early gives the team context, confidence, and predictability. You highlight several metrics worth discussing:
+Reviewing metrics early gives the team context, confidence, and predictability. Several metrics worth discussing:
 
 ### **Average Velocity**  
 Shows how many story points the team typically completes. Helps set a realistic planning target.
@@ -47,7 +47,7 @@ A shared team calendar is a powerful tool here. It helps everyone see availabili
 ---
 
 ## 🔁 Bring Forward Retrospective Action Items  
-A good Retrospective produces meaningful action items — and those items require time and effort. You recommend:
+A good Retrospective produces meaningful action items — and those items require time and effort.
 
 - Adding action items as user stories  
 - Placing them at the top of the Sprint Backlog  
@@ -58,7 +58,7 @@ This ensures the team doesn’t forget them and can plan around them intentional
 ---
 
 ## 🔄 Address Carried‑Over Stories  
-Stories carry over — even for mature teams. Your article highlights two key steps:
+Stories carry over — even for mature teams.
 
 1. **Ask how much effort remains**  
    Don’t resize the story; simply note the remaining effort and factor it into planning.
@@ -72,7 +72,7 @@ This prevents confusion and preserves context.
 ---
 
 ## 🏁 Ensure Each Story Meets the Definition of Ready  
-You give a great example of a vague story (“We need to fix the report…”) to show how missing details can derail a sprint.
+A great example of a vague story (“We need to fix the report…”) to show how missing details can derail a sprint.
 
 A mature team uses a Definition of Ready (DoR) to avoid this. During planning:
 
@@ -85,9 +85,8 @@ If many stories fail the DoR, it’s a sign that backlog refinement needs improv
 ---
 
 ## 🚫 Don’t Combine Refinement with Sprint Planning  
-You call out a common anti‑pattern: combining Refinement and Planning to “reduce meetings.”
+A common agile anti‑pattern: combining Refinement and Planning to “reduce meetings.”
 
-Your article explains why this backfires:
 - Planning becomes longer and more exhausting  
 - Stories remain unclear  
 - Requirements get gathered mid‑sprint  
@@ -98,7 +97,7 @@ Instead, address the root cause: ineffective ceremonies, poor backlog health, or
 ---
 
 ## 🎯 Keep Conversations Focused  
-Sprint Planning often derails when the team dives too deep into solutioning. You recommend:
+Sprint Planning often derails when the team dives too deep into solutioning.
 
 - Allowing some discussion  
 - Stepping in when the conversation gets too detailed  
@@ -136,7 +135,7 @@ This ordering helps the team swarm effectively when needed.
 ---
 
 ## 👍 Confirm the Sprint Goal Is Achievable  
-Your article emphasizes that planning is a collaborative effort:
+Sprint planning is a collaborative effort:
 
 - PO brings priorities  
 - Scrum Master brings metrics  
