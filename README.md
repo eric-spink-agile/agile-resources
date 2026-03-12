@@ -32,7 +32,7 @@ Guides for running effective Scrum ceremonies, based on real team patterns and p
 - Sprint Planning  
 - Sprint Review  
 - Sprint Retrospective 
-- Daily Scrum *(coming soon)*  
+- Daily Scrum
 - Backlog Refinement *(coming soon)*  
 
 ---
